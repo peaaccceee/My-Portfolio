@@ -17,6 +17,10 @@ header {
     padding: 15px 0;
 }
 
+img {
+    width: 100px;
+}
+
 .navbar {
     width: 90%;
     margin: auto;
@@ -43,6 +47,7 @@ section {
     padding: 40px 20px;
     width: 90%;
     margin: auto;
+    height: 100vh;
 }
 
 h2 {
